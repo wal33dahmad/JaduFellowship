@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+body{
+    background: url("https://coverfiles.alphacoders.com/372/3721.jpg") no-repeat;
+    background-position: 100% 0.25%;
+    background-color: black;
+    overflow-y: scroll;
+    
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.start{
+    margin:15% 0 5% 0;
+}
+section{
+    padding: 100px;
+}
+
+section h2{
+    font-size: 3em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+section p{
+    line-height: 1.8em;
+}
+
+.parallax{
+    padding-left: 205px;
+    background: url("https://images2.alphacoders.com/516/thumb-1920-516664.jpg") no-repeat fixed;
+    background-origin: padding-box;
+    background-position: center;
+}
+
+.footerr{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+    line-height: 20px;
+}
+li{
+    font-size: large;
+}
