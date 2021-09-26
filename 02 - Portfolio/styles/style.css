@@ -157,6 +157,12 @@ nav a:hover i
     font-size: 20px;
     border: 2px solid white;
 }
+.abt_btn:hover
+{
+    color: #0c121d;
+    background-color: white;
+    font-weight: bold;
+}
 
 /* End About */
 
